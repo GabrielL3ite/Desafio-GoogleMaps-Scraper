@@ -1,4 +1,4 @@
-# Desafio Google Maps (RPA com Selenium)
+# Desafio Google Maps
 
 Este projeto automatiza buscas no Google Maps por categorias definidas em configuracao, coleta dados dos locais encontrados e gera saidas em `JSON` e `XLSX`.
 
