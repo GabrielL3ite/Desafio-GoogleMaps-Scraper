@@ -1,0 +1,18 @@
+2026-04-13 09:47:45 | INFO | gmaps_rpa | Automacao Google Maps iniciada
+2026-04-13 09:47:53 | INFO | gmaps_rpa | Buscando 'academia' com query: academias em Uberlandia, MG
+2026-04-13 09:49:03 | INFO | gmaps_rpa | Buscando 'restaurante' com query: restaurantes em Uberlandia, MG
+2026-04-13 09:50:16 | INFO | gmaps_rpa | Buscando 'sorveteria' com query: sorveterias em Uberlandia, MG
+2026-04-13 09:51:27 | INFO | gmaps_rpa | Buscando 'hotel' com query: hotéis em Uberlandia, MG
+2026-04-13 09:51:51 | INFO | gmaps_rpa | Total de registros: 20
+2026-04-13 09:51:51 | INFO | gmaps_rpa | JSON salvo em: C:\Users\gabriel.leite\OneDrive - SINAPE LTDA\Documentos\Desafio GoogleMaps\resultados.json
+2026-04-13 09:51:51 | INFO | gmaps_rpa | XLSX salvo em: C:\Users\gabriel.leite\OneDrive - SINAPE LTDA\Documentos\Desafio GoogleMaps\resultados.xlsx
+2026-04-13 09:51:54 | INFO | gmaps_rpa | Automacao Google Maps finalizada
+2026-05-11 22:01:01 | INFO | gmaps_rpa | Automacao Google Maps iniciada
+2026-05-11 22:01:03 | INFO | gmaps_rpa | Buscando 'academia' com query: academias em Uberlandia, MG
+2026-05-11 22:02:14 | INFO | gmaps_rpa | Buscando 'restaurante' com query: restaurantes em Uberlandia, MG
+2026-05-11 22:03:26 | INFO | gmaps_rpa | Buscando 'sorveteria' com query: sorveterias em Uberlandia, MG
+2026-05-11 22:04:39 | INFO | gmaps_rpa | Buscando 'hotel' com query: hotéis em Uberlandia, MG
+2026-05-11 22:05:04 | INFO | gmaps_rpa | Total de registros: 20
+2026-05-11 22:05:04 | INFO | gmaps_rpa | JSON salvo em: C:\Users\elain\OneDrive\Documentos\Desafio GoogleMaps\resultados.json
+2026-05-11 22:05:04 | INFO | gmaps_rpa | XLSX salvo em: C:\Users\elain\OneDrive\Documentos\Desafio GoogleMaps\resultados.xlsx
+2026-05-11 22:05:07 | INFO | gmaps_rpa | Automacao Google Maps finalizada

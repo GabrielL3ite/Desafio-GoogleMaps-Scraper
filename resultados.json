@@ -1,0 +1,142 @@
+[
+  {
+    "nome": "Academia Smart Fit - Uberlândia Centro",
+    "tipo": "academia",
+    "nota": 4.5,
+    "quantidade_avaliacoes": null,
+    "endereco": "R. Cruzeiro dos Peixotos, 343 - Centro, Uberlândia - MG, 38400-107"
+  },
+  {
+    "nome": "Nexus Academia - unidade Nossa Sra. Graças",
+    "tipo": "academia",
+    "nota": 4.8,
+    "quantidade_avaliacoes": null,
+    "endereco": "Av. Siqueira Campos, 335 - Nossa Sra. das Graças, Uberlândia - MG, 38402-008"
+  },
+  {
+    "nome": "Iron Class Academia 24h - Uberlândia",
+    "tipo": "academia",
+    "nota": 4.8,
+    "quantidade_avaliacoes": null,
+    "endereco": "Av. Dr. Vicente Salles Guimarães, 2415 - Alto Umuarama, Uberlândia - MG, 38405-386"
+  },
+  {
+    "nome": "Academia Garra Gym Uberlândia",
+    "tipo": "academia",
+    "nota": 4.8,
+    "quantidade_avaliacoes": null,
+    "endereco": "R. São Francisco de Assis, 998 - Saraiva, Uberlândia - MG, 38408-482"
+  },
+  {
+    "nome": "Academia Smart Fit - Uberlândia",
+    "tipo": "academia",
+    "nota": 4.5,
+    "quantidade_avaliacoes": null,
+    "endereco": "Av. Rondon Pacheco, 920 - Copacabana, Uberlândia - MG, 38411-045"
+  },
+  {
+    "nome": "Estância do Cupim",
+    "tipo": "restaurante",
+    "nota": 4.5,
+    "quantidade_avaliacoes": null,
+    "endereco": "Av. Anselmo Alves dos Santos, 1000 - Santa Mônica, Uberlândia - MG, 38408-150"
+  },
+  {
+    "nome": "Coco Bambu",
+    "tipo": "restaurante",
+    "nota": 4.9,
+    "quantidade_avaliacoes": null,
+    "endereco": "Av. João Naves de Ávila, 1331 - Piso 1 - Tibery, Uberlândia - MG, 38408-902"
+  },
+  {
+    "nome": "Saideira Buteco de Comida",
+    "tipo": "restaurante",
+    "nota": 4.6,
+    "quantidade_avaliacoes": null,
+    "endereco": "Av. Princesa Isabel, 816 - Fundinho, Uberlândia - MG, 38400-192"
+  },
+  {
+    "nome": "Churrascaria Tropeiro",
+    "tipo": "restaurante",
+    "nota": 4.7,
+    "quantidade_avaliacoes": null,
+    "endereco": "Av. João Naves de Ávila, 1374 - Cazeca, Uberlândia - MG, 38408-100"
+  },
+  {
+    "nome": "Ninetto Trattoria",
+    "tipo": "restaurante",
+    "nota": 4.8,
+    "quantidade_avaliacoes": null,
+    "endereco": "Av. João Naves de Ávila, 1331 - Loja sub0128A Piso 01 - Tibery, Uberlândia - MG, 38408-902"
+  },
+  {
+    "nome": "Sorveteria Bicota",
+    "tipo": "sorveteria",
+    "nota": 4.6,
+    "quantidade_avaliacoes": null,
+    "endereco": "Praça Rui Barbosa, 33 - Centro, Uberlândia - MG, 38400-174"
+  },
+  {
+    "nome": "Sorveteria Amarena Sorvetes e açaí",
+    "tipo": "sorveteria",
+    "nota": 4.8,
+    "quantidade_avaliacoes": null,
+    "endereco": "Av. Maranhão, 651 - Brasil, Uberlândia - MG, 38400-738"
+  },
+  {
+    "nome": "Eskimó - Zona Sul Uberlândia MG",
+    "tipo": "sorveteria",
+    "nota": 4.8,
+    "quantidade_avaliacoes": null,
+    "endereco": "Av. Iraque, 99 - Jardim Botânico, Uberlândia - MG, 38410-663"
+  },
+  {
+    "nome": "Sorveteria Sol & Neve - Centro",
+    "tipo": "sorveteria",
+    "nota": 4.7,
+    "quantidade_avaliacoes": null,
+    "endereco": "Av. Floriano Peixoto, 140 - Centro, Uberlândia - MG, 38400-100"
+  },
+  {
+    "nome": "Vila di Italia - Gelato Artesanal Premium",
+    "tipo": "sorveteria",
+    "nota": 4.9,
+    "quantidade_avaliacoes": null,
+    "endereco": "Av. Dr. Laerte Vieira Gonçalves, 221 - Santa Mônica, Uberlândia - MG, 38408-176"
+  },
+  {
+    "nome": "Porto Minas Hotel e Convenções",
+    "tipo": "hotel",
+    "nota": 5.0,
+    "quantidade_avaliacoes": 13,
+    "endereco": "Av. João Naves de Ávila, 3685 - Jardim Finotti, Uberlândia - MG, 38408-144"
+  },
+  {
+    "nome": "B&B Hotel Uberlândia",
+    "tipo": "hotel",
+    "nota": 1.6,
+    "quantidade_avaliacoes": 17,
+    "endereco": "Praça Tubal Vilela, 192 - 11º andar - Centro, Uberlândia - MG, 38400-186"
+  },
+  {
+    "nome": "Hotel Monte Carlo Uberlândia",
+    "tipo": "hotel",
+    "nota": 4.5,
+    "quantidade_avaliacoes": 110,
+    "endereco": "Praça Tubal Vilela, 30 - Centro, Uberlândia - MG, 38400-186"
+  },
+  {
+    "nome": "Golden Park Uberlândia",
+    "tipo": "hotel",
+    "nota": 4.7,
+    "quantidade_avaliacoes": 1862,
+    "endereco": "Av. Rondon Pacheco, 5455 - Brasil, Uberlândia - MG, 38400-655"
+  },
+  {
+    "nome": "B&B Hotel Uberlândia",
+    "tipo": "hotel",
+    "nota": 1.6,
+    "quantidade_avaliacoes": 17,
+    "endereco": "Praça Tubal Vilela, 192 - 11º andar - Centro, Uberlândia - MG, 38400-186"
+  }
+]
